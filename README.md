@@ -1,0 +1,11 @@
+<img width="1916" height="1017" alt="ANDROIDSTUDIO" src="https://github.com/user-attachments/assets/c57d0045-f7fb-468f-b346-cd3b9c58f1ad" />
+<img width="776" height="581" alt="ROTACION1TABLET" src="https://github.com/user-attachments/assets/68739b44-2c2d-4234-89c6-de408f0353c3" />
+<img width="590" height="815" alt="ALEMANTABLET" src="https://github.com/user-attachments/assets/f3655733-624f-4cf1-81d9-0f29b49a34e0" />
+<img width="587" height="818" alt="FRANCESTABLET" src="https://github.com/user-attachments/assets/dc93a03c-ca1d-4211-8418-c43d80e154da" />
+<img width="572" height="837" alt="INGLESTABLET" src="https://github.com/user-attachments/assets/d2c48d62-0ce7-4cde-acc0-e04d6aecc82f" />
+<img width="568" height="820" alt="ESPAÑOLTABLET" src="https://github.com/user-attachments/assets/1e4980a5-45dd-4188-b7c0-8f4c82024677" />
+<img width="772" height="378" alt="ROTACION1" src="https://github.com/user-attachments/assets/08c9b429-3ac7-4377-b95c-11604bf4952c" />
+<img width="406" height="835" alt="ALEMAN" src="https://github.com/user-attachments/assets/f0996013-8fbc-42ef-9342-0750bacb5dcb" />
+<img width="422" height="833" alt="FRANCES" src="https://github.com/user-attachments/assets/b2a4473a-dfe6-4581-bbee-9c521c654d07" />
+<img width="433" height="822" alt="INGLES" src="https://github.com/user-attachments/assets/4bce964d-2029-4746-8110-8ef9c2a67308" />
+<img width="410" height="832" alt="ESPAÑOL" src="https://github.com/user-attachments/assets/dbe02128-4aa4-419e-8158-da657edcd4ba" />
