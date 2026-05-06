@@ -1,3 +1,4 @@
+<img width="428" height="843" alt="listado_idiomas" src="https://github.com/user-attachments/assets/5ffe9a00-1023-4cb6-96f5-1c5fa301e60b" />
 <img width="1916" height="1017" alt="ANDROIDSTUDIO" src="https://github.com/user-attachments/assets/c57d0045-f7fb-468f-b346-cd3b9c58f1ad" />
 <img width="776" height="581" alt="ROTACION1TABLET" src="https://github.com/user-attachments/assets/68739b44-2c2d-4234-89c6-de408f0353c3" />
 <img width="590" height="815" alt="ALEMANTABLET" src="https://github.com/user-attachments/assets/f3655733-624f-4cf1-81d9-0f29b49a34e0" />
